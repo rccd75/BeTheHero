@@ -1,2 +1,2 @@
 # BeTheHero
-Uses React, React Native anda NodeJS
+Uses React, React Native and NodeJS
